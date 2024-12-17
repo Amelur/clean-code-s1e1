@@ -30,7 +30,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .add-task-input {
   display: flex;
@@ -115,7 +115,7 @@ input,button{
   width: 226px;
 }
 .list-item > .input-text {
-  width: 226px
+  width: 226px;
 }
 .btn.delete .delete-img {
   height: 2em;
